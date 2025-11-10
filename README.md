@@ -36,10 +36,10 @@ El trabajo combina **biología molecular**, **bioinformática** y **aprendizaje 
 
 4. **Modelos No Supervisados:**  
    - PCA (reducción de dimensionalidad)  
-   - K-Means y 🔸 Clustering Jerárquico  
+   - K-Means y Clustering Jerárquico  
 
 5. **Prueba con CDS reales:**  
-   - Conversión de secuencias FASTA → frecuencias de codones  
+   - Conversión de secuencias FASTA, frecuencias de codones  
    - Clasificación con modelos entrenados (SVM-RBF y MLP)  
    - Evaluación por margen, confianza y entropía  
 
